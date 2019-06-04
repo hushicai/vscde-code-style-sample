@@ -1,1 +1,1 @@
-export default class Animal {}
+export class Animal {}
